@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** 
 - **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Python code used to inspect and clean the data for this analysis can be found here [C:\Users\adinr\Documents\Python_Project-3_Minimum Wage\Python_Project-3_Minimum-Wage\Main_Code_Project\0_Processing_Data.ipynb].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
