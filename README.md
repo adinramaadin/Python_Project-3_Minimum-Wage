@@ -10,9 +10,9 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** 
 - **Category 4:** 
 
-The Python code used to inspect and clean the data for this analysis can be found here [C:\Users\adinr\Documents\Python_Project-3_Minimum Wage\Python_Project-3_Minimum-Wage\Main_Code_Project\0_Processing_Data.ipynb].
+The Python code used to inspect and clean the data for this analysis can be found [here](https://github.com/adinramaadin/Python_Project-3_Minimum-Wage/blob/main/Main_Code_Project/0_Processing_Data.ipynb)
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed Python code regarding various research questions can be found [here](https://github.com/adinramaadin/Python_Project-3_Minimum-Wage/blob/main/Main_Code_Project/1_EDA.ipynb).
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
